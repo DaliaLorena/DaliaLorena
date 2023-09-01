@@ -10,6 +10,9 @@ Hola! Soy Tester Manual, certificada como QA Engineer en Tripleten.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Dalia_Lorena-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=101010)](www.linkedin.com/in/dalia-lorena-torres-bolaños)
 
+[![Email](https://img.shields.io/badge/dalialorena.torres@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=101010)](mailto:dalialorena.torres@gmail.com)
+</br>
+
 
 # PORTFOLIO
 
