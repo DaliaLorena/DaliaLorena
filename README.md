@@ -1,9 +1,15 @@
 
 
-Hola! Soy Tester Manual, certificada como QA engineer en Tripleten. 
-Hard Skills en pruebas funcionales, diseño y ejecución de casos de prueba, reporte y seguimiento de bugs con Jira, pruebas de aplicaciones web con Charles y DevTools, pruebas de aplicaciones móviles en Android Studio, pruebas de API con Postman, consultas básicas SQL. 
-Análisis de requisitos y detección de zonas grises. 
-Soft Skills en comunicación efectiva, trabajo en equipo, resolución de problemas, atención al detalle, adaptabilidad al cambio y con muchas ganas de seguir creciendo y desarrollándome profesionalmente.
+Hola! Soy Tester Manual, certificada como QA Engineer en Tripleten. 
+
+**Hard Skills** en pruebas funcionales, diseño y ejecución de casos de prueba, reporte y seguimiento de bugs con ![Static Badge](https://img.shields.io/badge/JIRA-purple), pruebas de aplicaciones web con ![Static Badge](https://img.shields.io/badge/Charles-red) y ![Static Badge](https://img.shields.io/badge/DevTools-green), pruebas de aplicaciones móviles en ![Static Badge](https://img.shields.io/badge/Android%20Studio-blue), pruebas de **API** con ![Static Badge](https://img.shields.io/badge/Postman-orange), consultas básicas ![Static Badge](https://img.shields.io/badge/SQL-grey), análisis de requisitos y detección de zonas grises. 
+
+**Soft Skills** en comunicación efectiva, trabajo en equipo, resolución de problemas, atención al detalle, adaptabilidad al cambio y con muchas ganas de seguir creciendo y desarrollándome profesionalmente.
+
+# CONTACTO
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Dalia_Lorena-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=101010)](www.linkedin.com/in/dalia-lorena-torres-bolaños)
+
 
 # PORTFOLIO
 
