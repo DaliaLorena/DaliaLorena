@@ -8,7 +8,7 @@ Soft Skills en comunicación efectiva, trabajo en equipo, resolución de problem
 # PORTFOLIO
 
 **Testeo aplicación web Urban Scooter**
-https://img.shields.io/badge/Testeo%20aplicación%20web%20Urban%20Scooter-brightgreen
+https://img.shields.io/badge/Testeo%20aplicaci%C3%B3n%20web%20Urban%20Scooter-brightgreen
 (**Requisitos:** https://practicum-content.s3.us-west-1.amazonaws.com/new-markets/qa-final-project/Requisitos_de_aplicaciones_web.pdf)
 
 *Análisis de requisitos:
