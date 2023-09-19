@@ -1,6 +1,6 @@
 
 
-Hola! Soy Tester Manual, certificada como QA Engineer en Tripleten. 
+¡Hola! Soy Tester Manual, certificada como QA Engineer en Tripleten. 
 
 **Hard Skills** en pruebas funcionales, diseño y ejecución de casos de prueba, reporte y seguimiento de bugs con ![Static Badge](https://img.shields.io/badge/JIRA-purple), pruebas de aplicaciones web con ![Static Badge](https://img.shields.io/badge/Charles-red) y ![Static Badge](https://img.shields.io/badge/DevTools-green), pruebas de aplicaciones móviles en ![Static Badge](https://img.shields.io/badge/Android%20Studio-blue), pruebas de **API** con ![Static Badge](https://img.shields.io/badge/Postman-orange), consultas básicas ![Static Badge](https://img.shields.io/badge/SQL-grey), análisis de requisitos y detección de zonas grises. 
 
